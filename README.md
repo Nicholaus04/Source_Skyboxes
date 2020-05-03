@@ -2,7 +2,7 @@
 This repo is a download mirror for Jacobdeanr's Skyboxes. with some RAR files converted to 7Z for better compression.
 
 # Installation
-1. Download the 7Z file you need from the "Releases" Tab (Or you can download the full collection by clicking "Clone or Download")
+1. Download the 7Z file you need from the "Releases" Tab (Or download the full collection by clicking "Clone or Download")
 2. Open the 7Z file and extract the VTF And VMT files to: ```(SteamDir)/Steam/steamapps/common/(sourcegamename)/(gamedir)/materials/skybox ```
 
 # Using the skyboxes in your map
